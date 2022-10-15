@@ -3,7 +3,7 @@
 library(dplyr)
 library(ggplot2)
 
-# How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+# 5 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
 # Load the NEI & SCC data frames from rds files
 
