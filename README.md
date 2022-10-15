@@ -80,7 +80,7 @@ barplot(
 
 As we can see from the plot, total emissions have decreased in the US from 1999 to 2008.
 
-![plot of plot1.png](./plot1.png)
+(https://github.com/GaurabKundu1/Exploratory-Data-Analysis-Course-Project-2/blob/main/plot1/plot1.png)
 
 ### Question 2
 
